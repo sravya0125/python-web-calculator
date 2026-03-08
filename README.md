@@ -83,12 +83,9 @@ http://127.0.0.1:5000
 
 ---
 
-## 📸 Project Preview
+## Project Preview
 
-(Add a screenshot of the calculator UI here)
-
-```
-![Calculator Screenshot](calculator.png)
+![Calculator Screenshot](https://raw.githubusercontent.com/sravya0125/python-web-calculator/main/calculator.png)
 ```
 
 ---
